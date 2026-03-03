@@ -1,0 +1,11 @@
+{
+  "name": "identify",
+  "version": "1.0.0",
+  "description": "Bitespeed identity reconciliation service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test test_identity.js"
+  },
+  "license": "ISC"
+}
